@@ -1,0 +1,14 @@
+Health_AppApp.swift
+AppState.swift
+UIComponents.swift
+
+LoginView.swift
+ForgotPasswordView.swift
+ContentView.swift
+
+MedicalHistoryView.swift
+SymptomLoggingView.swift
+DailyReminderView.swift
+
+HealthReportView.swift
+ReportSettingsView.swift
